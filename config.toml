@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Tilburg University", url = "www.tilburguniversity.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile_picture.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "static/profile_picture.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "y.wang_12@uvt.nl"
   address = ""
   office_hours = ""
@@ -236,7 +236,7 @@ enableGitInfo = false
    [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv.pdf"
+     link = "static/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

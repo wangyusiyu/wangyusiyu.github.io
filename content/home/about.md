@@ -21,4 +21,4 @@ weight = 5
 
 I am a PhD candidate in accounting at Tilburg University. My research interests include corporate disclosure, financial analysts, and the political economy of financial markets. 
 
-I will be available for interviews at the Madrid Talent Workshop in Novmember 2019 and Miami Rookie Camp in December 2019.  
+I will be available for interviews at the Madrid Talent Workshop in Novmember 2018 and Miami Rookie Camp in December 2018.  

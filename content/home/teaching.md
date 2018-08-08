@@ -16,3 +16,10 @@ weight = 60
 +++
 
 Teaching
+
+I am a teaching assistant for the following courses at Tilburg University:
+
+        • Financial Accounting 	
+	• Financial Statement Analysis
+
+I also supervise master thesis at Tilburg university. 
